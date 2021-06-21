@@ -1,0 +1,6 @@
+tests*
+*log
+*dex
+*apk
+__pycache__*
+test*
